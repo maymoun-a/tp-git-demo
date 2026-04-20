@@ -1,4 +1,3 @@
-# Liste des participants au TP
-
-* Enseignant : [Ton Nom/Prénom]
+# Liste des participants au 
+* Enseignant : Imen
 * Étudiant 1 : (Ajoutez votre nom ici)
